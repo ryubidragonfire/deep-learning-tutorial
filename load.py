@@ -2,7 +2,7 @@ import numpy as np
 import os
 
 #datasets_dir = '/media/datasets/'
-datasets_dir = 'C:/git/deep-learning-tutorial/data/'
+datasets_dir = 'C:/Users/chyam/git/deep-learning-tutorial/data/'
 
 def one_hot(x,n):
 	if type(x) == list:
